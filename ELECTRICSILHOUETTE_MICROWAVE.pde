@@ -1,5 +1,5 @@
 // cafetiereMan.pde
-// by Alvaro Cassinelli, using Processing and BlobDetection library 
+// (c) Alvaro Cassinelli, using Processing and BlobDetection library 
 // Description: program used for Nana Hari performance, on the 22.12.2007 with Stephane Perrin. 
 //              Hundreds of "particles" are inside the body of the performer, and they are "heated" by the sound leve. 
 //              They may escape the silhouette if their energy is large enough. When the particle is outside the screen, it will 
